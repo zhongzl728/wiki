@@ -1,7 +1,7 @@
 site_name: Zilogn Wiki
 site_description: 博览万物，融会贯通。
 site_url: https://wiki-zilong.com/
-repo_url: https://github.com/zhongzl728/testdemo0717
+repo_url: https://github.com/zhongzl728/wiki
 
 edit_uri: edit/main/docs/ #
 
@@ -94,13 +94,13 @@ extra:
     property: G-QBB3SQMGLN # 如果克隆我的站点，请把这串代码改成你自己的
   social:
     - name: 友链 & 导航站
-      link: https://nav.wiki-power.com/
+      link: #https://nav.wiki-power.com/
       icon: fontawesome/regular/address-book
     - name: 书摘
-      link: http://digest.wiki-power.com/
+      link: #http://digest.wiki-power.com/
       icon: fontawesome/regular/bookmark
     - name: 资源仓库
-      link: https://github.com/linyuxuanlin/File-host
+      link: #https://github.com/linyuxuanlin/File-host
       icon: fontawesome/regular/file-lines
 
 copyright: Copyright &copy; 2015 - 2023 by Power | <a href="https://beian.miit.gov.cn"> 粤 ICP 备 20014898 号 </a>
