@@ -5,7 +5,7 @@ hide:
   - toc
 ---
 
-# Power's Wiki
+# Zilong's Wiki
 
 [![badge](https://img.shields.io/github/deployments/linyuxuanlin/Wiki_MkDocs/Production?label=Build&style=flat-square){ loading=lazy }](https://vercel.com/powerlin/wiki-mkdocs/deployments)
 [![badge](https://img.shields.io/github/zhongzl728/wiki?color=FCD734&label=Last%20commit&style=flat-square){ loading=lazy }](https://github.com/zhongzl728/wiki/commits/main)
