@@ -286,74 +286,74 @@ nav:
       - 嵌入式开发:
           - STM32:
               - HAL库开发笔记-环境配置.md
-              - HAL库开发笔记-GPIO.md
-              - HAL库开发笔记-外部中断.md
-              - HAL库开发笔记-串口通信.md
-              - HAL库开发笔记-DMA.md
-              - HAL库开发笔记-TIM基本定时器.md
-              - HAL库开发笔记-TIM通用定时器.md
-              - HAL库开发笔记-I2C通信（MPU6050）.md
-              - HAL库开发笔记-CAN通信.md
-              - HAL库开发笔记-USB通信.md
-              - HAL库开发笔记-以太网通信（LwIP）.md
-              - Lora通信-基于正点原子ATK-LORA-01模块.md
-              - STM32CubeIDE串口重定向（printf）及输出浮点型.md
-              - C与STM32常用宏定义.md
-              - C与STM32代码规范.md
-              - CubeMX与CubeIDE避坑.md
-              - STM32的启动模式.md
-              - KeilMDK配置指南.md
-          - Arduino & 杂项:
-              - TinyTimelapseCam-基于ESP32-S3的迷你延时相机.md
-              - StyleTransferCam-基于ESP32-S3的风格迁移相机.md
-              - TinyMonitor-小巧的服务器状态监视器.md
-              - TinyWeatherStation-简约而不简单的桌面天气站.md
-              - 如何读写单个bit.md
-              - PlatformIO—一站式嵌入式开发工具.md
-              - PlatformIO搭配CubeMX食用.md
-              - SWD与JTAG的区别与联系.md
-              #- JTAG状态机详解.md
-              - 大疆N3飞控-参考资料.md
-              - ATTiny85调试记录.md
-              - T-Clock桌上小钟.md
-              - 麦轮小车.md
-              - 转义字符.md
-              - 一个舵机的自我修养.md
-              - FreeRTOS开发笔记.md
-      - 软件开发:
-          - DOCKER:
-              - Docker基础知识.md
-              - DockerCompose-镜像编排工具.md
-              - 将应用封装为Docker容器.md
-          - LINUX:
-              - Linux学习笔记-基础知识.md
-              - Linux学习笔记-用户操作.md
-              - 嵌入式Linux-基础知识.md
-              - 嵌入式Linux-GPIO子系统.md
-              - BeagleBone系列-基本参数与环境配置.md
-              - BeagleBone系列-无线连接.md
-              - BeagleBone系列-使用BBIO库开发.md
-              - BeagleBone系列-BBAI入坑.md
-          - 杂七杂八:
-              - HTML学习笔记.md
-              - CSS学习笔记.md
-              - JavaScript学习笔记.md
-              - Git学习笔记.md
-              - 双系统极简安装指南.md
-              - 网页版串口助手的开发.md
-              - Ubuntu配置笔记.md
-              - ROS入门笔记.md
-              - 机器视觉入门.md
-              - 使用R语言进行数据分析.md
-              - 自适应网页设计.md
-              - 前端开发-环境搭建.md
-              - BookJourney-二手书商城小程序.md
-      # - 机器学习:
+      #         - HAL库开发笔记-GPIO.md
+      #         - HAL库开发笔记-外部中断.md
+      #         - HAL库开发笔记-串口通信.md
+      #         - HAL库开发笔记-DMA.md
+      #         - HAL库开发笔记-TIM基本定时器.md
+      #         - HAL库开发笔记-TIM通用定时器.md
+      #         - HAL库开发笔记-I2C通信（MPU6050）.md
+      #         - HAL库开发笔记-CAN通信.md
+      #         - HAL库开发笔记-USB通信.md
+      #         - HAL库开发笔记-以太网通信（LwIP）.md
+      #         - Lora通信-基于正点原子ATK-LORA-01模块.md
+      #         - STM32CubeIDE串口重定向（printf）及输出浮点型.md
+      #         - C与STM32常用宏定义.md
+      #         - C与STM32代码规范.md
+      #         - CubeMX与CubeIDE避坑.md
+      #         - STM32的启动模式.md
+      #         - KeilMDK配置指南.md
+      #     - Arduino & 杂项:
+      #         - TinyTimelapseCam-基于ESP32-S3的迷你延时相机.md
+      #         - StyleTransferCam-基于ESP32-S3的风格迁移相机.md
+      #         - TinyMonitor-小巧的服务器状态监视器.md
+      #         - TinyWeatherStation-简约而不简单的桌面天气站.md
+      #         - 如何读写单个bit.md
+      #         - PlatformIO—一站式嵌入式开发工具.md
+      #         - PlatformIO搭配CubeMX食用.md
+      #         - SWD与JTAG的区别与联系.md
+      #         #- JTAG状态机详解.md
+      #         - 大疆N3飞控-参考资料.md
+      #         - ATTiny85调试记录.md
+      #         - T-Clock桌上小钟.md
+      #         - 麦轮小车.md
+      #         - 转义字符.md
+      #         - 一个舵机的自我修养.md
+      #         - FreeRTOS开发笔记.md
+      # - 软件开发:
+      #     - DOCKER:
+      #         - Docker基础知识.md
+      #         - DockerCompose-镜像编排工具.md
+      #         - 将应用封装为Docker容器.md
+      #     - LINUX:
+      #         - Linux学习笔记-基础知识.md
+      #         - Linux学习笔记-用户操作.md
+      #         - 嵌入式Linux-基础知识.md
+      #         - 嵌入式Linux-GPIO子系统.md
+      #         - BeagleBone系列-基本参数与环境配置.md
+      #         - BeagleBone系列-无线连接.md
+      #         - BeagleBone系列-使用BBIO库开发.md
+      #         - BeagleBone系列-BBAI入坑.md
+      #     - 杂七杂八:
+      #         - HTML学习笔记.md
+      #         - CSS学习笔记.md
+      #         - JavaScript学习笔记.md
+      #         - Git学习笔记.md
+      #         - 双系统极简安装指南.md
+      #         - 网页版串口助手的开发.md
+      #         - Ubuntu配置笔记.md
+      #         - ROS入门笔记.md
+      #         - 机器视觉入门.md
+      #         - 使用R语言进行数据分析.md
+      #         - 自适应网页设计.md
+      #         - 前端开发-环境搭建.md
+      #         - BookJourney-二手书商城小程序.md
+      # # - 机器学习:
       #     - 机器学习入门-基础流程.md
       #     - 机器学习入门-环境搭建.md
       #     - 机器学习入门-模型评估指标.md
-          - 其他:
-            - 机器学习常用的包.md
+          # - 其他:
+          #   - 机器学习常用的包.md
   - 生活 & 折腾:
       - 生活琐记:
           - LIFEHACK:
@@ -370,23 +370,23 @@ nav:
               # - 电路焊接比赛记录.md
               # - 为什么要「站在巨人的肩膀上」.md
             # - 一些观点.md
-          - BLOG:
-              - blog/2022-12-31-探索之路-2022小记.md
-              - blog/2022-09-23-星夜漫游.md
-              - blog/2022-07-03-有限与无限世界.md
-              - blog/2022-06-27-硬件行业趋势与个人的选择.md
-              - blog/2022-05-01-现代都市与末日田园.md
-              - blog/2022-03-18-雨.md
-              - blog/2021-09-19-当下与永恒.md
-              - blog/2021-08-28-8月深圳小记.md
-              - blog/2021-08-05-RoboMaster赛后随笔.md
-              - blog/2021-06-14-内卷与未来的职业趋势.md
-              - blog/2021-06-13-关于新能源行业的一些观点.md
-              - blog/2021-04-23-为什么要抵制智能推荐算法.md
-              - blog/2021-04-10-不要自己感动自己.md
-              - blog/2021-04-09-买了一台NAS.md
-              - blog/2021-04-08-如何不长痘.md
-              - blog/2021-04-07-Hello-blog.md
+          # - BLOG:
+          #     - blog/2022-12-31-探索之路-2022小记.md
+          #     - blog/2022-09-23-星夜漫游.md
+          #     - blog/2022-07-03-有限与无限世界.md
+          #     - blog/2022-06-27-硬件行业趋势与个人的选择.md
+          #     - blog/2022-05-01-现代都市与末日田园.md
+          #     - blog/2022-03-18-雨.md
+          #     - blog/2021-09-19-当下与永恒.md
+          #     - blog/2021-08-28-8月深圳小记.md
+          #     - blog/2021-08-05-RoboMaster赛后随笔.md
+          #     - blog/2021-06-14-内卷与未来的职业趋势.md
+          #     - blog/2021-06-13-关于新能源行业的一些观点.md
+          #     - blog/2021-04-23-为什么要抵制智能推荐算法.md
+          #     - blog/2021-04-10-不要自己感动自己.md
+          #     - blog/2021-04-09-买了一台NAS.md
+          #     - blog/2021-04-08-如何不长痘.md
+          #     - blog/2021-04-07-Hello-blog.md
       - 折腾不止:
           - 自托管 Self-Host:
               - 搭建属于自己的HomeLab.md
@@ -421,79 +421,79 @@ nav:
               #- 掌握自己的数据权.md
               - ESXi初始化指南.md
               - Linux下挂载群晖NAS硬盘拓展空间（NFS）.md
-          - 群晖 NAS:
-              - 使用frp访问群晖NAS.md #  CSDN
-              - 使用RSSHub搭建RSS生成器（群晖Docker）.md #  CSDN
-              - 使用Bitwarden搭建密码管理器（群晖Docker）.md #  CSDN
-              - 使用acme.sh自动申请域名证书（群晖Docker）.md #  CSDN
-              - 使用Calibre搭建在线书库（群晖Docker）.md #  CSDN
-              - 使用Watchtower自动更新容器（群晖Docker）.md
+          # - 群晖 NAS:
+          #     - 使用frp访问群晖NAS.md #  CSDN
+          #     - 使用RSSHub搭建RSS生成器（群晖Docker）.md #  CSDN
+          #     - 使用Bitwarden搭建密码管理器（群晖Docker）.md #  CSDN
+          #     - 使用acme.sh自动申请域名证书（群晖Docker）.md #  CSDN
+          #     - 使用Calibre搭建在线书库（群晖Docker）.md #  CSDN
+          #     - 使用Watchtower自动更新容器（群晖Docker）.md
           - 技术流:
               - 为什么你需要一个知识库.md #  CSDN
               - 个人知识库的搭建-基于Docusaurus.md #  CSDN
               - 如何用Markdown写一份简历.md #  CSDN
               - Auto-i18n：使用ChatGPT的自动多语言翻译工具.md
-              - 小米手机折腾记录.md
-              - Docusaurus极简部署指南.md #  CSDN todo
-              - 使用Markdown高效写作.md #  CSDN
-              - 使用Rclone同步网盘数据.md
-              - 个人文案排版规范.md #  CSDN todo
-              - 如何保存易逝的文字.md
-              - 如何在iPad上运行VSCode.md #  CSDN
-              - MkDocs测试实验室.md
-              - Windows初始化与软件推荐（旧）.md #  CSDN todo
-              - Personal_Onboarding_Workflow_(Windows).md
-              - Hugo极简搭建指南.md #  CSDN todo
-              - 用树莓派架设云打印服务器.md #  CSDN todo
-              - 用Graphviz绘制关系图.md #  CSDN todo
-              - RSS-高效率的阅读方式.md
-              - 如何实现外网RDP远控（frp）.md #  CSDN
-              - 技术文档写作规范.md #  CSDN todo
+              # - 小米手机折腾记录.md
+              # - Docusaurus极简部署指南.md #  CSDN todo
+              # - 使用Markdown高效写作.md #  CSDN
+              # - 使用Rclone同步网盘数据.md
+              # - 个人文案排版规范.md #  CSDN todo
+              # - 如何保存易逝的文字.md
+              # - 如何在iPad上运行VSCode.md #  CSDN
+              # - MkDocs测试实验室.md
+              # - Windows初始化与软件推荐（旧）.md #  CSDN todo
+              # - Personal_Onboarding_Workflow_(Windows).md
+              # - Hugo极简搭建指南.md #  CSDN todo
+              # - 用树莓派架设云打印服务器.md #  CSDN todo
+              # - 用Graphviz绘制关系图.md #  CSDN todo
+              # - RSS-高效率的阅读方式.md
+              # - 如何实现外网RDP远控（frp）.md #  CSDN
+              # - 技术文档写作规范.md #  CSDN todo
               - 如何在Markdown中使用LaTeX.md
-              - 把回忆放心交给GooglePhotos.md
-              - VSCode生产力指南-环境配置.md #  CSDN todo
-              - VSCode生产力指南-JupyterNotebook.md #  CSDN todo
-              - 在浏览器上运行VSCode（旧）.md
-              - Linux如何配置开机自动运行脚本.md
-              - 如何配一台电脑.md
-              - 团队影像资源管理.md
-              - 团队知识库的搭建.md
+              # - 把回忆放心交给GooglePhotos.md
+              # - VSCode生产力指南-环境配置.md #  CSDN todo
+              # - VSCode生产力指南-JupyterNotebook.md #  CSDN todo
+              # - 在浏览器上运行VSCode（旧）.md
+              # - Linux如何配置开机自动运行脚本.md
+              # - 如何配一台电脑.md
+              # - 团队影像资源管理.md
+              # - 团队知识库的搭建.md
           - 一些小技巧:
               - Windows常用命令.md
               - VSCode的便携模式.md
-              - 开启Chrome（Edge）多线程下载.md
-              - 移除Chrome（Edge）由组织管理.md
-              - 避免Chrome（Edge）强制转换HTTPS.md
-              - 用群晖自带反向代理实现HTTPS访问.md
-              - 解决Google相册导出时间信息丢失问题.md
-              - 使用gitignore忽略特殊文件.md
-              - 3D打印：ABS与PLA的区别.md
-              - 如何批量拉取Git仓库更新.md
-              - 如何用Markdown写公众号文章.md
-              - 如何快速删除node_modules.md
-              - 如何为公众号文章增加特效.md
-              - 如何在Linux下使用微信.md
-              - 如何打印出手写效果的文字.md
-              - 如何从乐曲中分离音轨.md
-              - 如何高效制作幻灯片.md
-              - 卡片式写作.md
-              - 如何撰写一份BRD.md
-              - 用reveal.js制作幻灯片.md
-              - npm和Yarn换源加速国内访问.md
-              - Vue.js小技巧.md
-              - 正则表达式实用语句.md
-              - GitHub改Host.md
-              - MSI主板开启虚拟化的方法.md
-              - Git配置代理.md
-              - 删除GitHub仓库中某个文件夹.md
-              - 定制SublimeText3.md
-              - 用Vercel加速Pages服务.md
-              - Doxygen注释规范.md
-              - AltiumDesigner安装库文件.md
-              - CentOS配置OhMyZsh.md
-              - 如何快速制作一个启动盘.md
-              - 使用VSCode进行远程开发.md
-              - Node.js和npm的安装与卸载（MacOS）.md
+              # - 开启Chrome（Edge）多线程下载.md
+              # - 移除Chrome（Edge）由组织管理.md
+              # - 避免Chrome（Edge）强制转换HTTPS.md
+              # - 用群晖自带反向代理实现HTTPS访问.md
+              # - 解决Google相册导出时间信息丢失问题.md
+              # - 使用gitignore忽略特殊文件.md
+              # - 3D打印：ABS与PLA的区别.md
+              # - 如何批量拉取Git仓库更新.md
+              # - 如何用Markdown写公众号文章.md
+              # - 如何快速删除node_modules.md
+              # - 如何为公众号文章增加特效.md
+              # - 如何在Linux下使用微信.md
+              # - 如何打印出手写效果的文字.md
+              # - 如何从乐曲中分离音轨.md
+              # - 如何高效制作幻灯片.md
+              # - 卡片式写作.md
+              # - 如何撰写一份BRD.md
+              # - 用reveal.js制作幻灯片.md
+              # - npm和Yarn换源加速国内访问.md
+              # - Vue.js小技巧.md
+              # - 正则表达式实用语句.md
+              # - GitHub改Host.md
+              # - MSI主板开启虚拟化的方法.md
+              # - Git配置代理.md
+              # - 删除GitHub仓库中某个文件夹.md
+              # - 定制SublimeText3.md
+              # - 用Vercel加速Pages服务.md
+              # - Doxygen注释规范.md
+              # - AltiumDesigner安装库文件.md
+              # - CentOS配置OhMyZsh.md
+              # - 如何快速制作一个启动盘.md
+              # - 使用VSCode进行远程开发.md
+              # - Node.js和npm的安装与卸载（MacOS）.md
       #- 杂七杂八:
       #    - 机器人队行政:
       #        - 四校交流-策划案.md
@@ -518,48 +518,3 @@ nav:
       #        - 关于复盘.md
 ###
 
-#  archive：
-# - archive/Python学习笔记.md
-# - archive/STM32麦轮小车.md
-# - archive/RM校内赛-前期策划.md
-# - archive/报告书都要写些什么？.md
-# - archive/无人驾驶比赛.md
-# - archive/硬件模块.md
-# - archive/命令行基本操作-
-# - archive/科技X的访谈.md
-# - archive/极简面包-烘培.md
-# - archive/电路设计中常用的接口及关键点.md
-# - archive/Bash基础.md
-# - archive/从零搭建视觉开发环境（Docker-Linux）.md
-# - archive/Excel批量激活链接并转为图片.md
-# - archive/智能硬件产品开发流程.md
-# - archive/华广爬楼指北.md
-# - archive/小车游华广-比赛.md
-# - archive/麦昆小车-测评.md
-# - archive/STM32模块设计-LED.md
-# - archive/团队公开知识库的搭建.md
-# - archive/Docker方法部署code-server.md
-# - archive/Homelab-极简的待办系统todo.md
-# - archive/Homelab-播客订阅管理器Podgrab.md
-
-#  unlist：
-# - unlist/电源设计-LDO跳变抑制能力对比测试记录.md
-# - unlist/CentOS安装Docker.md
-# - unlist/乐谱-Imagine.md
-# - unlist/T-Clock桌上小钟（旧）.md
-# - unlist/构建知识管理系统.md
-# - unlist/回归博客.md
-# - unlist/团队知识库搭建记录-DokuWiki.md
-# - unlist/个人知识库极简搭建指南-VuePress.md
-# - unlist/博客转至GitBook.md
-# - unlist/浅谈Bitcron博客平台.md
-# - unlist/基于docsify搭建个人Wiki.md
-# - unlist/PCB名片的设计.md
-# - unlist/如何用LaTeX写论文.md
-
-#  preview
-# - 我是如何做数据容灾的.md
-# - 如何用Markdown写学术论文.md
-# - AD基本操作-PCB绘制.md
-# - AD基本操作-库文件绘制.md
-# - JetsonNano系列-入坑.md
