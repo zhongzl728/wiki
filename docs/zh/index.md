@@ -7,8 +7,8 @@ hide:
 
 # Zilong's Wiki
 
-[![badge](https://img.shields.io/github/deployments/linyuxuanlin/Wiki_MkDocs/Production?label=Build&style=flat-square){ loading=lazy }](https://vercel.com/powerlin/wiki-mkdocs/deployments)
-[![badge](https://img.shields.io/github/zhongzl728/wiki?color=FCD734&label=Last%20commit&style=flat-square){ loading=lazy }](https://github.com/zhongzl728/wiki/commits/main)
+[![badge](https://img.shields.io/github/deployments/zhongzl728/wiki/Production?label=Build&style=flat-square){ loading=lazy }](https://vercel.com/zhongzl728s-projects/wiki/deployments)
+[![badge](https://img.shields.io/github/last-commit/zhongzl728/wiki?color=FCD734&label=Last%20commit&style=flat-square){ loading=lazy }](https://https://github.com/zhongzl728/wiki/commits/main/)
 [![badge](https://img.shields.io/badge/Contact%20%26%20Subscribe-me-34ABE0?&style=flat-square){ loading=lazy }](https://wiki-zilong.com/Contact-and-Subscribe/)
 
 <!--
