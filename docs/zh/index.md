@@ -28,6 +28,6 @@ Hi there~ 欢迎来到我的知识库。
 为了避免遗忘、便于分享，我在这里收录知识。  
 请随意浏览～
 
-[硬件 & 半导体](https://wiki-zilong.com/信号完整性-基础概念){ .md-button }
-[嵌入式 & 软件开发](https://wiki-zilong.com/HAL库开发笔记-串口通信){ .md-button }
+[硬件 & 半导体](https://wiki-zilong.com/基础元器件){ .md-button }
+[嵌入式 & 软件开发](https://wiki-zilong.com/初始Cadnece){ .md-button }
 [生活 & 折腾](https://wiki-zilong.com/搭建属于自己的HomeLab){ .md-button }

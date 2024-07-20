@@ -131,7 +131,9 @@ extra_javascript:
   - javascripts/embed.js # https://viewer.altium.com/client/static/js/embed.js
 
 extra_css:
-  - stylesheets/extra.css
+    - stylesheets/extra.css
+extra_javascript:
+    - javascripts/extra.js
 
 #############################################################
 #############################################################
