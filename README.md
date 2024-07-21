@@ -1,7 +1,7 @@
 # wiki
-online : [https://wiki-zilong.com ](http://wiki-zilong.com/) 
 
-Alternative URL1：[[https://snowkylin.github.io/tensorflow-handbook/ ](https://wiki-ten-indol.vercel.app/) ]
+online : [https://wiki-zilong.com ](http://wiki-zilong.com/) 
 
-Alternative URL2：[[https://snowkylin.github.io/tensorflow-handbook/ ]((https://zhongzl728.github.io/wiki/) ]
+Alternative URL1：https://wiki-ten-indol.vercel.app/
 
+Alternative URL2：https://zhongzl728.github.io/wiki/
